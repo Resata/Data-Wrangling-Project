@@ -1,0 +1,6 @@
+Resources I used to assist me in Analysis
+
+1- https://stackoverflow.com/
+
+2- https://pandas.pydata.org/
+
